@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "project_name": "Project Tomato",
+        "description": "A detailed explanation of Project Tomato, highlighting the objectives, challenges, and solutions implemented.",
+        "short_description": "A brief overview of Project Tomato, focusing on its main features.",
+        "image": "1.jpg",
+        "category": ["Web Development", "UI/UX Design"],
+        "client_name": "Tomato Corp",
+        "published_date": "2024-08-01",
+        "live_link": "https://www.Tomato-project.com"
+    },
+    {
+        "id": "2",
+        "project_name": "Project Lebupay",
+        "description": "A comprehensive description of Project Lebupay, detailing the design, development, and deployment processes.",
+        "short_description": "A concise summary of Project Lebupay, including key takeaways.",
+        "image": "2.jpg",
+        "category": ["Mobile App", "User Experience"],
+        "client_name": "Lebupay LLC",
+        "published_date": "2024-07-15",
+        "live_link": "https://www.Lebupay-project.com"
+    },
+    {
+        "id": "3",
+        "project_name": "Project Learlning-platfrom",
+        "description": "An in-depth look at Project Learlning-platfrom, covering all aspects from initial concept to final launch.",
+        "short_description": "A snapshot of Project Learlning-platfrom, outlining the primary goals and achievements.",
+        "image": "3.jpg",
+        "category": ["Software Development", "Cloud Services"],
+        "client_name": "Learlning-platfrom Solutions",
+        "published_date": "2024-06-20",
+        "live_link": "https://www.Learlning-platfrom-project.com"
+    },
+    {
+        "id": "4",
+        "project_name": "Project Delta",
+        "description": "A detailed analysis of Project Delta, showcasing innovative solutions in AI integration and automation.",
+        "short_description": "A brief overview of Project Delta, focusing on its AI capabilities.",
+        "image": "4.jpg",
+        "category": ["Artificial Intelligence", "Automation"],
+        "client_name": "Delta Technologies",
+        "published_date": "2024-05-30",
+        "live_link": "https://www.delta-project.com"
+    },
+    {
+        "id": "5",
+        "project_name": "Project Sodiam",
+        "description": "An in-depth exploration of Project Sodiam, highlighting its cutting-edge blockchain technology.",
+        "short_description": "A concise summary of Project Sodiam, emphasizing its blockchain framework.",
+        "image": "5.jpg",
+        "category": ["Blockchain", "Security"],
+        "client_name": "Sodiam Innovations",
+        "published_date": "2024-04-18",
+        "live_link": "https://www.Sodiam-project.com"
+    },
+    {
+        "id": "6",
+        "project_name": "Project Lithiam",
+        "description": "A comprehensive look at Project Lithiam, covering the development of a scalable e-commerce platform.",
+        "short_description": "A snapshot of Project Lithiam, focusing on its e-commerce solutions.",
+        "image": "6.jpg",
+        "category": ["E-Commerce", "Web Development"],
+        "client_name": "Lithiam Retail",
+        "published_date": "2024-03-25",
+        "live_link": "https://www.Lithiam-project.com"
+    }
+]
